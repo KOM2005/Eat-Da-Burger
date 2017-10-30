@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS top_songsDB;
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
